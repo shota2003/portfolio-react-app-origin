@@ -36,7 +36,3 @@ and a responsive layout that adapts to both desktop and mobile devices.
 | Scroll animations | AOS |
 | Styling | Plain CSS (`./styles/App.css`) |
 | Language switching | Custom implementation with `data-i18n` attributes |
-
----
-
-## 📁 Project Structure
