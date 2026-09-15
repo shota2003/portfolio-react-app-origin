@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Geo';
     font-weight: 600;
-    src: url('./font/Dachi-the-Lynx.ttf') format('truetype'),
-        url('./font/Dachi-the-Lynx.woff') format('woff'),
-        url('./font/Dachi-the-Lynx.woff2') format('woff2'),
-        url('./font/Dachi-the-Lynx.otf') format('opentype');
+    src: url('../public/font/Dachi-the-Lynx.ttf') format('truetype'),
+        url('../public/font/Dachi-the-Lynx.woff') format('woff'),
+        url('../public/font/Dachi-the-Lynx.woff2') format('woff2'),
+        url('../public/font/Dachi-the-Lynx.otf') format('opentype');
 }
 
 * {
